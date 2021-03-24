@@ -12,7 +12,7 @@ This is a POC for k6 framework, load test framework based on nodejs.
 5. Go to your browser and open
   ```http://localhost:8089/```
   Fill up the field and click ``Start swarming``
-![Image of Report_1!](https://github.com/7etrahedral/k6-script/blob/main/report_example/locust_1.png)
+![Image of Report_1!](https://github.com/7etrahedral/locust-script/blob/main/report_example/locust_1.png)
 
 ### Report Example ###
-![Image of Report_2!](https://github.com/7etrahedral/k6-script/blob/main/report_example/locust_2.png)
+![Image of Report_2!](https://github.com/7etrahedral/locust-script/blob/main/report_example/locust_2.png)
